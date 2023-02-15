@@ -1,4 +1,4 @@
-# garage_application
+# parking_garage_application
 console software application with java using : 
 
 * Solid Principles
