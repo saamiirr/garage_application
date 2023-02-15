@@ -1,5 +1,5 @@
 # parking_garage_application
-console software application with java using : 
+console software application with java having : 
 
 * Solid Principles
 * Design Patterns
